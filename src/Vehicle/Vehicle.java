@@ -1,3 +1,5 @@
+package Vehicle;
+
 import java.util.Date;
 
 public class Vehicle {

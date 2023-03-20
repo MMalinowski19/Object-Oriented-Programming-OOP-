@@ -1,3 +1,5 @@
+package Vehicle;
+
 public class Car extends Vehicle {
     private int numberOfWheels;
     private int enginePower;
