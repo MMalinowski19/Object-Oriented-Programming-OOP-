@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f41833f-5f7c-4504-af4b-258ae7c927c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abc/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abc/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abc/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679327203511</updated>
-      <workItem from="1679327204671" duration="3359000" />
+      <workItem from="1679327204671" duration="4402000" />
     </task>
     <servers />
   </component>

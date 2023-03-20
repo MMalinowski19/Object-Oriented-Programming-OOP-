@@ -1,5 +1,9 @@
+import Animals.Animal;
+import Animals.Cat;
+import Animals.Dog;
 import Vehicle.Car;
 import Vehicle.Tank;
+import abc.A;
 import abc.C;
 
 public class Main {
@@ -25,6 +29,14 @@ public class Main {
         tank.setName("Leopard");
         car.setNumberOfWheels(4);
         tank.setNumberOfCatterpillars(2);
+
+        //POLIMORFIZM
+        Animal animal = new Animal();
+        Dog dog = new Dog();
+        Cat cat = new Cat();
+        animal.speak();
+        dog.speak();
+        cat.speak();
 
     }
 }
