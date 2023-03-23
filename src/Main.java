@@ -2,8 +2,9 @@ import Animals.Animal;
 import Animals.Cat;
 import Animals.Dog;
 import Vehicle.Car;
+import Vehicle.Garage;
 import Vehicle.Tank;
-import abc.A;
+import Vehicle.Vehicle;
 import abc.C;
 
 public class Main {
@@ -37,6 +38,21 @@ public class Main {
         animal.speak();
         dog.speak();
         cat.speak();
+
+        //GARAGE
+
+        Garage garage = new Garage();
+        Vehicle car1 = new Vehicle();
+        car1.setName("Porshe");
+        Vehicle car2 = new Vehicle();
+        car2.setName("Mercedes");
+        garage.addVehicleToSpace(car1, 0);
+        garage.addVehicleToSpace(car2, 1);
+        garage.addVehicleToSpace(car,3);
+        garage.deleteVehicleFromSpace(1);
+        garage.checkSpace(2);
+        garage.spaceInGarage();
+        System.out.println(garage.showCarsInGarage());
 
     }
 }

@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f41833f-5f7c-4504-af4b-258ae7c927c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Garage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5df73b3d-4973-4fdd-af37-dd04db189969" />
+        <option name="url" value="git@github.com:MMalinowski19/Object-Oriented-Programming-OOP-.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679327203511</updated>
-      <workItem from="1679327204671" duration="4402000" />
+      <workItem from="1679327204671" duration="11231000" />
     </task>
     <servers />
   </component>
