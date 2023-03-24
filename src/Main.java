@@ -1,6 +1,7 @@
 import Animals.Animal;
 import Animals.Cat;
 import Animals.Dog;
+import Calculator.Calculator;
 import Vehicle.Car;
 import Vehicle.Garage;
 import Vehicle.Tank;
@@ -40,7 +41,7 @@ public class Main {
         cat.speak();
 
         //GARAGE
-
+/*
         Garage garage = new Garage();
         Vehicle car1 = new Vehicle();
         car1.setName("Porshe");
@@ -48,11 +49,23 @@ public class Main {
         car2.setName("Mercedes");
         garage.addVehicleToSpace(car1, 0);
         garage.addVehicleToSpace(car2, 1);
-        garage.addVehicleToSpace(car,3);
+        garage.addVehicleToSpace(car, 3);
         garage.deleteVehicleFromSpace(1);
         garage.checkSpace(2);
         garage.spaceInGarage();
-        System.out.println(garage.showCarsInGarage());
+        System.out.println(garage.showCarsInGarage());*/
+
+    //OVERLOADING
+
+    Calculator calculator = new Calculator();
+        System.out.println(calculator.add(10.5,15.5));
+        System.out.println(calculator.add(10,15));
+        System.out.println(calculator.add(10,13,12));
+        System.out.println(calculator.add(13,12.3,10.1));
+
+
 
     }
+
+
 }
